@@ -14,15 +14,15 @@
 }
 
 body {
-  font-family: 'Lato', sans-serif;
-  font-size: 13px;
+  font-family: 'open sans - bold', sans-serif;
+  font-size: 23px;
   background-color: #F6F0E4;
 }
 
 /* Basic/Mobile Header Styling: */
 
 header {
-  background-color: #7BAFA4;
+  background-color: #f44250;
 }
 
 .hamburger {
