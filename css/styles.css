@@ -14,9 +14,9 @@
 }
 
 body {
-  font-family: 'Lato', sans-serif;
-  font-size: 13px;
-  background-color: #F6F0E4;
+  font-family: 'Futura', sans-serif;
+  font-size: 12px;
+  background-color: #ffe6ff;
 }
 
 /* Basic/Mobile Header Styling: */
@@ -63,7 +63,7 @@ nav {
 }
 
 .navlist-item {
-  border-bottom: 1px solid #F6F0E4;
+  border-bottom: 1px solid #99ffbb;
 }
 
 .navlist-item:first-child {
@@ -92,8 +92,8 @@ article {
 }
 
 h2 {
-  font-family: 'PT Serif', serif;
-  font-size: 2em;
+  font-family: 'Futura', serif;
+  font-size: 1.5em;
   margin: 20px 0;
 }
 
@@ -194,7 +194,7 @@ img {
   }
 
   article {
-    width: 33.33%;
+    width: 50%;
   }
 }
 
