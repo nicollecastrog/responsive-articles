@@ -14,15 +14,15 @@
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Georgia', serif;
   font-size: 13px;
-  background-color: #F6F0E4;
+  background-color: #FC1D42;
 }
 
 /* Basic/Mobile Header Styling: */
 
 header {
-  background-color: #7BAFA4;
+  background-color: #212121;
 }
 
 .hamburger {
@@ -103,7 +103,7 @@ p {
 
 img {
   display: block;
-  width: 100%;
+  width: 60%;
 }
 
 /* Additional Styling */
