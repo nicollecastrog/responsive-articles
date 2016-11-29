@@ -15,8 +15,8 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  font-size: 13px;
-  background-color: #F6F0E4;
+  font-size: 16px;
+  background-color: #ffffff;
 }
 
 /* Basic/Mobile Header Styling: */
@@ -45,7 +45,7 @@ header {
 
 .hamburger-line {
   height: 3px;
-  background-color: white;
+  background-color: red;
   border-radius: 2px;
   margin: 5px 0;
 }
@@ -64,6 +64,7 @@ nav {
 
 .navlist-item {
   border-bottom: 1px solid #F6F0E4;
+  font-size: 20px;
 }
 
 .navlist-item:first-child {
